@@ -140,8 +140,5 @@ We compare five supervised architectures against three SSL paradigms to identify
 
 ---
 
-
----
-
 ## 🏁 Conclusion
 Contrastive self-supervised learning provides a **high-performance, label-efficient alternative** to traditional supervised approaches for crack detection, making it highly suitable for real-world applications with limited labeled data.
