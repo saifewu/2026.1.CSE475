@@ -10,7 +10,7 @@ We compare five supervised architectures against three SSL paradigms to identify
 ## 🏫 Institution
 **East West University**  
 **Course:** CSE475 - Machine Learning  
-**Group 9**
+**Group 8**
 
 ---
 
